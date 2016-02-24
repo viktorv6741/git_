@@ -1,4 +1,3 @@
-package jmx;
 
 public interface CircleMBean {
 
