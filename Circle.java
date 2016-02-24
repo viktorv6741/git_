@@ -1,4 +1,3 @@
-package com_;
 
 import java.awt.*;
 
